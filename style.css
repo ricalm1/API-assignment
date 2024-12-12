@@ -1,0 +1,16 @@
+button {
+    width: 20vw;
+    border-radius: 16px;
+    height: 7vh;
+    background-color: blue;
+    color: white;
+    border:blue 1px solid;
+    padding: 5px 10px;
+    
+}
+
+button:hover{
+    color:blue;
+    background-color: white;
+    
+}
